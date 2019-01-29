@@ -2,7 +2,7 @@
     "name": "quazz/cmsimportexport",
     "description": "",
     "require": {
-        "magento/framework": "^103",
+        "magento/framework": "103.*.*",
         "msp/common": "*",
         "magento/magento-composer-installer": "*"
     },
