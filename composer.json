@@ -1,8 +1,8 @@
 {
-    "name": "msp/cmsimportexport",
+    "name": "quazz/cmsimportexport",
     "description": "",
     "require": {
-        "magento/framework": ">=100",
+        "magento/framework": "^103",
         "msp/common": "*",
         "magento/magento-composer-installer": "*"
     },
